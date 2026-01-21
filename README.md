@@ -14,11 +14,12 @@ project_1
 
 ### Основные визуализации
 
-* ![age_distribution.svg](visualizationsage_distribution.svg)
-* ![experience_distribution.svg](visualizationsexperience_distribution.svg)
-* ![heatmap_salary_age_categories.svg](visualizationsheatmap_salary_age_categories.svg)
-* ![median_salary_by_education.svg](visualizationsmedian_salary_by_education.svg)
-* ![salary_by_city.svg](visualizationssalary_by_city.svg)
-* ![salary_by_relocation_and_commutation.svg](visualizationssalary_by_relocation_and_commutation.svg)
-* ![salary_distribution.svg](visualizationssalary_distribution.svg)
-* ![salary_distribution_comparison.svg](visualizationssalary_distribution_comparison.svg)
+* ![age_distribution.svg](visualizations/age_distribution.svg)
+* ![experience_distribution.svg](visualizations/experience_distribution.svg)
+* ![salary_distribution.svg](visualizations/salary_distribution.svg)
+* ![salary_distribution_comparison.svg](visualizations/salary_distribution_comparison.svg)
+* ![median_salary_by_education.svg](visualizations/median_salary_by_education.svg)
+* ![salary_by_city.svg](visualizations/salary_by_city.svg)
+* ![salary_by_relocation_and_commutation.svg](visualizations/salary_by_relocation_and_commutation.svg)
+* ![heatmap_salary_age_categories.svg](visualizations/heatmap_salary_age_categories.svg)
+
